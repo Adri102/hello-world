@@ -1,2 +1,4 @@
 # hello-world
-Just the tutorial
+
+Hi I'm doing the tutorial because I have no clue of how this works.
+
